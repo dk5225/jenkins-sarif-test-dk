@@ -1,2 +1,1 @@
 # jenkins-sarif-test-dk
-
