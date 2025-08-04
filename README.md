@@ -1,1 +1,1 @@
-# jenkins-sarif-test-dk 
+# jenkins-sarif-test-dk
